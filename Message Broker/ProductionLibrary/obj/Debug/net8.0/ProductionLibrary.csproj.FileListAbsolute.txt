@@ -1,0 +1,15 @@
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/bin/Debug/net8.0/ProductionLibrary.deps.json
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/bin/Debug/net8.0/ProductionLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/bin/Debug/net8.0/ProductionLibrary.pdb
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/bin/Debug/net8.0/SharedLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/bin/Debug/net8.0/SharedLibrary.pdb
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/obj/Debug/net8.0/ProductionLibrary.csproj.AssemblyReference.cache
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/obj/Debug/net8.0/ProductionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/obj/Debug/net8.0/ProductionLibrary.AssemblyInfoInputs.cache
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/obj/Debug/net8.0/ProductionLibrary.AssemblyInfo.cs
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/obj/Debug/net8.0/ProductionLibrary.csproj.CoreCompileInputs.cache
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/obj/Debug/net8.0/Producti.CDEBE9EC.Up2Date
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/obj/Debug/net8.0/ProductionLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/obj/Debug/net8.0/refint/ProductionLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/obj/Debug/net8.0/ProductionLibrary.pdb
+/home/mehrdad/projects/c#/Message Broker/ProductionLibrary/obj/Debug/net8.0/ref/ProductionLibrary.dll

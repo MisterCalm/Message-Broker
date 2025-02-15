@@ -1,0 +1,15 @@
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/bin/Debug/net8.0/ConsumptionLibrary.deps.json
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/bin/Debug/net8.0/ConsumptionLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/bin/Debug/net8.0/ConsumptionLibrary.pdb
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/bin/Debug/net8.0/SharedLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/bin/Debug/net8.0/SharedLibrary.pdb
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/obj/Debug/net8.0/ConsumptionLibrary.csproj.AssemblyReference.cache
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/obj/Debug/net8.0/ConsumptionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/obj/Debug/net8.0/ConsumptionLibrary.AssemblyInfoInputs.cache
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/obj/Debug/net8.0/ConsumptionLibrary.AssemblyInfo.cs
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/obj/Debug/net8.0/ConsumptionLibrary.csproj.CoreCompileInputs.cache
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/obj/Debug/net8.0/Consumpt.6D5724D6.Up2Date
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/obj/Debug/net8.0/ConsumptionLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/obj/Debug/net8.0/refint/ConsumptionLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/obj/Debug/net8.0/ConsumptionLibrary.pdb
+/home/mehrdad/projects/c#/Message Broker/ConsumptionLibrary/obj/Debug/net8.0/ref/ConsumptionLibrary.dll

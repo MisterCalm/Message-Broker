@@ -1,0 +1,11 @@
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/bin/Debug/net8.0/SharedLibrary.deps.json
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/bin/Debug/net8.0/SharedLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/bin/Debug/net8.0/SharedLibrary.pdb
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/obj/Debug/net8.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/obj/Debug/net8.0/SharedLibrary.AssemblyInfoInputs.cache
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/obj/Debug/net8.0/SharedLibrary.AssemblyInfo.cs
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/obj/Debug/net8.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/obj/Debug/net8.0/SharedLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/obj/Debug/net8.0/refint/SharedLibrary.dll
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/obj/Debug/net8.0/SharedLibrary.pdb
+/home/mehrdad/projects/c#/Message Broker/SharedLibrary/obj/Debug/net8.0/ref/SharedLibrary.dll

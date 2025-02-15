@@ -1,0 +1,13 @@
+PENDING|36|0|{"producerId":0,"messageContent":{"messageId":189,"messageContent":"The teacher runs to school and is feeling quick.","messageTime":"2025-02-15T11:02:07.4251604+03:30"}}
+PENDING|38|0|{"producerId":0,"messageContent":{"messageId":338,"messageContent":"A dog drives with joy and is feeling excited.","messageTime":"2025-02-15T11:02:07.4320807+03:30"}}
+PENDING|39|0|{"producerId":0,"messageContent":{"messageId":392,"messageContent":"The car jumps with joy and is feeling lazy.","messageTime":"2025-02-15T11:02:07.4331052+03:30"}}
+PENDING|40|0|{"producerId":0,"messageContent":{"messageId":111,"messageContent":"The car jumps with joy and is feeling lazy.","messageTime":"2025-02-15T11:02:07.4235102+03:30"}}
+PENDING|41|0|{"producerId":0,"messageContent":{"messageId":396,"messageContent":"The teacher jumps on the mat and is feeling quick.","messageTime":"2025-02-15T11:02:07.4331607+03:30"}}
+PENDING|42|0|{"producerId":0,"messageContent":{"messageId":125,"messageContent":"A dog sleeps to school and is feeling excited.","messageTime":"2025-02-15T11:02:07.4238194+03:30"}}
+PENDING|43|0|{"producerId":0,"messageContent":{"messageId":405,"messageContent":"A dog jumps quickly and is feeling lazy.","messageTime":"2025-02-15T11:02:07.4333218+03:30"}}
+PENDING|44|0|{"producerId":0,"messageContent":{"messageId":407,"messageContent":"The car jumps quickly and is feeling quick.","messageTime":"2025-02-15T11:02:07.4333763+03:30"}}
+PENDING|45|0|{"producerId":0,"messageContent":{"messageId":410,"messageContent":"A child drives on the mat and is feeling happy.","messageTime":"2025-02-15T11:02:07.4334305+03:30"}}
+PENDING|46|0|{"producerId":0,"messageContent":{"messageId":414,"messageContent":"The cat drives on the mat and is feeling quick.","messageTime":"2025-02-15T11:02:07.4334843+03:30"}}
+PENDING|47|0|{"producerId":0,"messageContent":{"messageId":417,"messageContent":"A dog jumps quickly and is feeling curious.","messageTime":"2025-02-15T11:02:07.4335385+03:30"}}
+PENDING|48|0|{"producerId":0,"messageContent":{"messageId":129,"messageContent":"The cat sleeps with joy and is feeling happy.","messageTime":"2025-02-15T11:02:07.4238724+03:30"}}
+PENDING|49|0|{"producerId":0,"messageContent":{"messageId":422,"messageContent":"The teacher drives with joy and is feeling quick.","messageTime":"2025-02-15T11:02:07.4336461+03:30"}}
