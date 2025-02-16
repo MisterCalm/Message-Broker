@@ -6,7 +6,6 @@ This application is designed as a messaging system where consumers subscribe to 
 ## Prerequisites
 - .NET SDK (6.0 or later)
 - Visual Studio or Visual Studio Code
-- Postman or any API testing tool (optional, for testing the API directly)
 
 ## Project Structure
 ```
@@ -88,10 +87,10 @@ if after run api uses other ports make sure to change this in producer and consu
     POST http://localhost:5148/api/message
     {
         "producerId": 0,
-        "messageContent": "Test message"
+        "messageContent": "yor serialized object"
     }
     ```
-- The Consumer App should pick up the message if the `[SubscribeId(0)]` attribute is used.
+- The Consumer App should pick up the message if the `[SubscribeId(int subId)]` attribute is used.
 
 ## Example DLLs
 - Examples are provided in the `ProductionLibrary`and'ConsumptionLibrary' folders.
