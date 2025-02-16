@@ -94,8 +94,9 @@ if after run api uses other ports make sure to change this in producer and consu
 - The Consumer App should pick up the message if the `[SubscribeId(0)]` attribute is used.
 
 ## Example DLLs
-- Examples are provided in the `Examples` folder.
-- Modify and build these examples as per your requirements and place the compiled DLLs in the `ConsumerDll` folder.
+- Examples are provided in the `ProductionLibrary`and'ConsumptionLibrary' folders.
+
+- place the compiled DLLs in the `AddOns` folder.
 
 ## Troubleshooting
 - Make sure the API and Consumer apps are using the same base address.
@@ -103,5 +104,4 @@ if after run api uses other ports make sure to change this in producer and consu
 
 ## Notes
 - Modify rate limits using the `[ConsumeRateLimit]` attribute.
-- Ensure consistent namespaces and references across projects.
 
