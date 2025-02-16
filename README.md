@@ -1,7 +1,7 @@
 # How to Run the Consumer-Producer Messaging App
 
 ## Overview
-This application is designed as a messaging system where consumers subscribe to specific producers and receive messages asynchronously. The system uses an ASP.NET Core Web API as the message broker and dynamically loads consumer plugins as DLLs. The consumers process messages based on a producer ID using attributes to define subscriptions and rate limits.
+This application is designed as a messaging system where consumers subscribe to specific producers and receive messages asynchronously. The system uses an ASP.NET Web API as the message broker and dynamically loads consumer plugins as DLLs. The consumers process messages based on a producer ID using attributes to define subscriptions and rate limits.
 
 ## Prerequisites
 - .NET SDK (6.0 or later)
